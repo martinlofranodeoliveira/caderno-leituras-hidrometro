@@ -6,7 +6,7 @@ Organize leituras inicial e final e localize medições com ordem invertida ou e
 
 Abra a [demonstração](https://martinlofranodeoliveira.github.io/caderno-leituras-hidrometro/). Para uso local, execute `python3 -m http.server 8000` no diretório e abra `http://localhost:8000`.
 
-Preencha rows no exemplo. Use um id diferente em cada linha; confira a tabela e exporte o resultado.
+Preencha o identificador, o hidrômetro, as leituras em litros e a confirmação da conferência. Clique em **Conferir leituras** para localizar registros pendentes ou inválidos. Use **Baixar relatório** para levar a tabela em CSV.
 
 ## Contrato público
 
